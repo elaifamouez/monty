@@ -1,7 +1,10 @@
 <p align="center">  
-<img src="https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png" width="100">
+<img src ="https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png">
 </p>
-#  Monty Project (0x19: C - Stacks, Queues - LIFO, FIFO)
+
+<h1 align="center">
+	Monty Project (0x19: C - Stacks, Queues - LIFO, FIFO)
+</h1>
 
 **Authors: [ELAIFA MOUEZ](https://github.com/elaifamouez) and [Kusare Chuwa Kusare](https://github.com/count58)**
 
